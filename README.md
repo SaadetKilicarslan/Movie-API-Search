@@ -11,7 +11,7 @@ This is a simple web application that allows you to search for movies using the 
 
 ## Getting Started
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/movie-api-search.git`
+1. Clone this repository to your local machine using `git clone https://github.com/SaadetKilicarslan/movie-api-search.git`
 
 2. Open the `index.html` file in a web browser.
 
@@ -21,7 +21,7 @@ This is a simple web application that allows you to search for movies using the 
 
 ## Prerequisites
 
-- You need a valid TMDB API key to access the movie data. You can obtain an API key by signing up on the [TMDB website](https://www.themoviedb.org/documentation/api). Once you have the API key, replace `"YOUR_API_KEY"` in the JavaScript code with your actual API key.
+- You need a valid TMDB API key to access the movie data. You can obtain an API key by signing up on the [TMDB website](https://www.themoviedb.org/documentation/api). Once you have the API key, replace `"eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5OTQyYzkzZGJkNWE3MjUzY2FkYzYxYjc5ZDA3YmI2YyIsInN1YiI6IjY0ZTc2MWYxMWZlYWMxMDExYjJjOWFjZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.lgBFh7HOYsCwkibq93sq1aYzgHtKLN3z-hxVfQlZAgk"` in the JavaScript code with your actual API key.
 
 ## Built With
 
