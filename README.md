@@ -19,6 +19,10 @@ This is a simple web application that allows you to search for movies using the 
 
 4. The search results will be displayed below, showing information about the movies that match your search.
 
+![image](https://github.com/SaadetKilicarslan/Movie-API-Search/assets/140449815/ed624d66-c65c-4756-80ec-e67b622cd211)
+
+
+
 ## Prerequisites
 
 - You need a valid TMDB API key to access the movie data. You can obtain an API key by signing up on the [TMDB website](https://www.themoviedb.org/documentation/api). Once you have the API key, replace `"eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5OTQyYzkzZGJkNWE3MjUzY2FkYzYxYjc5ZDA3YmI2YyIsInN1YiI6IjY0ZTc2MWYxMWZlYWMxMDExYjJjOWFjZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.lgBFh7HOYsCwkibq93sq1aYzgHtKLN3z-hxVfQlZAgk"` in the JavaScript code with your actual API key.
